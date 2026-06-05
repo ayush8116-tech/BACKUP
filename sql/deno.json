@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@jotsr/delayed": "jsr:@jotsr/delayed@^2.1.1"
+  }
+}
