@@ -1,0 +1,9 @@
+2026-05-14 10:00:02 | ERROR   | /login
+2026-05-14 10:00:02 | ERROR   | /login
+2026-05-14 10:00:01 | SUCCESS | /home
+2026-05-14 10:00:03 | SUCCESS | /dashboard
+2026-05-14 10:00:01 | SUCCESS | /home
+2026-05-14 10:00:03 | SUCCESS | /dashboard
+2026-05-14 10:00:01 | SUCCESS | /home
+2026-05-14 10:00:02 | ERROR   | /login
+2026-05-14 10:00:03 | SUCCESS | /dashboard
